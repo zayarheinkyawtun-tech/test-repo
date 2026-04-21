@@ -1,1 +1,2 @@
 Testing file content
+New line for testing
